@@ -6,6 +6,8 @@ A Java-based scraper designed to view Jurisprudence data from Lawphil.
 
 ## Getting Started
 
+Prerequisite for Android users: [jsoup Android support](https://github.com/jhy/jsoup?tab=readme-ov-file#android-support)
+
 1. Add to your root build.gradle
 ```
 dependencyResolutionManagement {
